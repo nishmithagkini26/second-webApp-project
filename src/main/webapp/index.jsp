@@ -13,7 +13,7 @@
       justify-content: center;
 
       /* Amsterdam background image (replace with your own image path if you want) */
-      background-image: url("https://images.unsplash.com/photo-1468436139062-f60a71c5c892?auto=format&fit=crop&w=1600&q=80");
+      background-image: url("https://www.freepik.com/free-vector/gradient-devops-illustration_25225448.htm#fromView=keyword&page=1&position=1&uuid=f09aef7c-ec59-4480-b341-4945758c9258&query=Devops");
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
